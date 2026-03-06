@@ -29,7 +29,6 @@
 | [UPI Payment System](https://github.com/dharu-dharanic/upi-payment-system) | Full-stack UPI-like payment platform with JWT auth, fraud detection, ACID transactions & admin dashboard | Java, React |
 | [Summarizer & Misinformation Detector](https://github.com/dharu-dharanic/summarizer-misinformation-detection) | AI-powered tool that summarizes text and flags fake/misleading statements | JavaScript |
 | [Inventory Application](https://github.com/dharu-dharanic/inventoryApplication) | Full-stack inventory management system | JavaScript |
-| [Shamir Secret Sharing](https://github.com/dharu-dharanic/shamir-secret-sharing-) | Implementation of the cryptographic secret sharing algorithm | Java |
 | [Todo List](https://github.com/dharu-dharanic/todo-list) | Clean, functional task manager app | JavaScript |
 
 ---
