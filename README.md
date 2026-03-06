@@ -16,8 +16,8 @@
 ## 🚀 About Me
 
 - 🎓 Computer Science undergraduate targeting product-based companies
-- 🧠 Actively grinding **Data Structures & Algorithms**
-- 🛠 Building projects across **Web Development** and **Machine Learning / AI**
+- 🧠 Actively grinding **Data Structures & Algorithms** on LeetCode & GeeksforGeeks
+- 🛠 Building projects across **Web Development** and **Artificial Intelligence**
 - ☕ Primary languages: **Java**, **Python**, **JavaScript**
 
 ---
@@ -26,6 +26,7 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
+| [UPI Payment System](https://github.com/dharu-dharanic/upi-payment-system) | Full-stack UPI-like payment platform with JWT auth, fraud detection, ACID transactions & admin dashboard | Java, React |
 | [Summarizer & Misinformation Detector](https://github.com/dharu-dharanic/summarizer-misinformation-detection) | AI-powered tool that summarizes text and flags fake/misleading statements | JavaScript |
 | [Inventory Application](https://github.com/dharu-dharanic/inventoryApplication) | Full-stack inventory management system | JavaScript |
 | [Shamir Secret Sharing](https://github.com/dharu-dharanic/shamir-secret-sharing-) | Implementation of the cryptographic secret sharing algorithm | Java |
