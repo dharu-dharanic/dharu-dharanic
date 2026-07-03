@@ -26,10 +26,10 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [UPI Payment System](https://github.com/dharu-dharanic/upi-payment-system) | Full-stack UPI-like payment platform with JWT auth, fraud detection, ACID transactions & admin dashboard | Java, React |
-| [Summarizer & Misinformation Detector](https://github.com/dharu-dharanic/summarizer-misinformation-detection) | AI-powered tool that summarizes text and flags fake/misleading statements | JavaScript |
-| [Inventory Application](https://github.com/dharu-dharanic/inventoryApplication) | Full-stack inventory management system | JavaScript |
-| [Todo List](https://github.com/dharu-dharanic/todo-list) | Clean, functional task manager app | JavaScript |
+| [UPI Payment System](https://github.com/dharu-dharanic/upi-payment-system) | Full-stack UPI-inspired payment platform with JWT authentication, fraud detection, ACID transactions, and an admin dashboard. | Java, Spring Boot, React, MySQL |
+| [Inventory Application](https://github.com/dharu-dharanic/inventoryApplication) | Full-stack inventory management system with role-based access and real-time stock management. | Java, Spring Boot, React, MySQL |
+| [ReportIt](https://github.com/dharu-dharanic/reportit) • [Live Demo](https://reportit-platform.vercel.app/) | MERN-based civic issue reporting platform for reporting, tracking, and managing public infrastructure issues. | MongoDB, Express.js, React, Node.js |
+| [Summarizer & Misinformation Detector](https://github.com/dharu-dharanic/summarizer-misinformation-detection) | AI-powered tool that summarizes text and flags fake or misleading statements. | Python |
 
 ---
 
