@@ -1,8 +1,9 @@
 <div align="center">
 
-<h1>D H A R A N I . C</h1>
+<h1>D H A R A N I</h1>
 
 ```
+─────────────────────────────────────────────────
 CS Undergraduate  ·  Developer  ·  Problem Solver
 Tamil Nadu, India
 ```
@@ -14,7 +15,7 @@ Tamil Nadu, India
 <br/>
 
 ```
-ABOUT:
+ABOUT
 ─────────────────────────────────────────────────
 Building full-stack apps and using AI tools.
 Solving DSA problems — Arrays to Graphs.
@@ -24,7 +25,7 @@ Java · Python
 <br/>
 
 ```
-PROJECTS:
+PROJECTS
 ─────────────────────────────────────────────────
 ```
 
@@ -53,13 +54,20 @@ PROJECTS:
   Python
 ```
 
+**[Problem Solving](https://github.com/dharu-dharanic/problem-solving)**
+```
+  DSA solutions from LeetCode & GeeksforGeeks
+  Java
+```
+
 <br/>
 
 ```
-STACK:
+STACK
 ─────────────────────────────────────────────────
 Languages    Java · Python · JavaScript
 Frontend     React · HTML · CSS
+Database     MySQL
 Tools        Git · GitHub · VS Code
 ```
 
