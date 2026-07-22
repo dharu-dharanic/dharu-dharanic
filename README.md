@@ -1,9 +1,8 @@
 <div align="center">
 
-<h1>D H A R A N I</h1>
+<h1>D H A R A N I . C</h1>
 
 ```
-─────────────────────────────────────────────────
 CS Undergraduate  ·  Developer  ·  Problem Solver
 Tamil Nadu, India
 ```
