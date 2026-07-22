@@ -3,8 +3,8 @@
 <h1>D H A R A N I . C</h1>
 
 ```
-                                        CS Undergraduate  ·  Developer  ·  Problem Solver
-                                          Tamil Nadu, India
+CS Undergraduate  ·  Developer  ·  Problem Solver
+Tamil Nadu, India
 ```
 
 [LinkedIn](https://www.linkedin.com/in/dharani-c/) &nbsp;·&nbsp; [GitHub](https://github.com/dharu-dharanic) &nbsp;·&nbsp; [LeetCode](https://leetcode.com/u/dharani_1211/) &nbsp;
@@ -14,7 +14,7 @@
 <br/>
 
 ```
-ABOUT
+ABOUT:
 ─────────────────────────────────────────────────
 Building full-stack apps and using AI tools.
 Solving DSA problems — Arrays to Graphs.
@@ -24,7 +24,7 @@ Java · Python
 <br/>
 
 ```
-PROJECTS
+PROJECTS:
 ─────────────────────────────────────────────────
 ```
 
@@ -56,7 +56,7 @@ PROJECTS
 <br/>
 
 ```
-STACK
+STACK:
 ─────────────────────────────────────────────────
 Languages    Java · Python · JavaScript
 Frontend     React · HTML · CSS
