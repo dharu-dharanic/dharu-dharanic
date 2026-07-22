@@ -1,65 +1,77 @@
-<h1 align="center">Hi, I'm Dharani 👋</h1>
+<div align="center">
 
-<p align="center">
-  <b>CS Undergraduate · Aspiring Software Engineer · Problem Solver</b><br/>
-  Passionate about building impactful software — from AI tools to web apps
-</p>
+<h1>D H A R A N I</h1>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/dharani-c/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/dharu-dharanic"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/dharani_1211/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-</p>
+```
+─────────────────────────────────────────────────
+CS Undergraduate  ·  Developer  ·  Problem Solver
+Tamil Nadu, India
+```
 
----
+[LinkedIn](https://www.linkedin.com/in/dharani-c/) &nbsp;·&nbsp; [GitHub](https://github.com/dharu-dharanic) &nbsp;·&nbsp; [LeetCode](https://leetcode.com/u/dharani_1211/) &nbsp;·&nbsp; [GeeksforGeeks](https://www.geeksforgeeks.org/profile/dharaniea8s)
 
-## 🚀 About Me
+</div>
 
-- 🎓 Computer Science undergraduate targeting product-based companies
-- 🧠 Actively grinding **Data Structures & Algorithms** on LeetCode & GeeksforGeeks
-- 🛠 Building projects across **Web Development** and **Artificial Intelligence**
-- ☕ Primary languages: **Java**, **Python**, **JavaScript**
+<br/>
 
----
+```
+ABOUT
+─────────────────────────────────────────────────
+Building full-stack apps and using AI tools.
+Solving DSA problems — Arrays to Graphs.
+Java · Python
+```
 
-## 🔨 Featured Projects
+<br/>
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| [UPI Payment System](https://github.com/dharu-dharanic/upi-payment-system) | Full-stack UPI-inspired payment platform with JWT authentication, fraud detection, ACID transactions, and an admin dashboard. | Java, Spring Boot, React, MySQL |
-| [Inventory Application](https://github.com/dharu-dharanic/inventoryApplication) | Full-stack inventory management system with role-based access and real-time stock management. | Java, Spring Boot, React, MySQL |
-| [ReportIt](https://github.com/dharu-dharanic/reportit) • [Live Demo](https://reportit-platform.vercel.app/) | MERN-based civic issue reporting platform for reporting, tracking, and managing public infrastructure issues. | MongoDB, Express.js, React, Node.js |
-| [Summarizer & Misinformation Detector](https://github.com/dharu-dharanic/summarizer-misinformation-detection) | AI-powered tool that summarizes text and flags fake or misleading statements. | Python |
+```
+PROJECTS
+─────────────────────────────────────────────────
+```
 
----
+**[UPI Payment System](https://github.com/dharu-dharanic/upi-payment-system)**
+```
+  Full-stack payment platform · JWT auth · fraud detection
+  ACID transactions
+  Java, Spring Boot, React, MySQL
+```
 
-## 🛠 Tech Stack
+**[Inventory Application](https://github.com/dharu-dharanic/inventoryApplication)**
+```
+  Role-based access · real-time stock management
+  Java, Spring Boot, React, MySQL
+```
 
-**Languages**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+**[ReportIt](https://github.com/dharu-dharanic/reportit)** &nbsp;·&nbsp; **[Live Demo](https://reportit-platform.vercel.app/)**
+```
+  MERN civic issue tracker · real-time updates
+  MongoDB, Express.js, React, Node.js
+```
 
-**Web Development**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+**[Summarizer & Misinformation Detector](https://github.com/dharu-dharanic/summarizer-misinformation-detection)**
+```
+  AI-powered text analysis · flags fake statements
+  Python
+```
 
-**Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+<br/>
 
----
+```
+STACK
+─────────────────────────────────────────────────
+Languages    Java · Python · JavaScript
+Frontend     React · HTML · CSS
+Tools        Git · GitHub · VS Code
+```
 
-## 🧠 Areas of Interest
+<br/>
 
-- 📐 Data Structures & Algorithms
-- 🔧 Backend Development
-- 🌐 Web Development
+<div align="center">
 
----
+```
+─────────────────────────────────────────────────
+Write code that solves real problems.
+─────────────────────────────────────────────────
+```
 
-<p align="center">
-  <i>⭐ Focused on consistent growth — one problem, one project at a time.</i>
-</p>
+</div>
